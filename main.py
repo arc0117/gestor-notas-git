@@ -1,3 +1,5 @@
+# Proyecto realizado por: Álvaro Ramos Cruces
+
 from notas import agregar_nota, mostrar_notas, eliminar_nota
 
 notas = []
