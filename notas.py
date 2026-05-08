@@ -22,4 +22,4 @@ def eliminar_nota(lista):
             lista.pop(indice)
             print("Nota eliminada")
         else:
-            print("Número incorrecto")
+            print("Este número es incorrecto")
