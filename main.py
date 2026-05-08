@@ -19,10 +19,8 @@ while True:
 
     elif opcion == "2":
         mostrar_notas(notas)
-
     elif opcion == "3":
         eliminar_nota(notas)
-
     elif opcion == "4":
         print("Programa finalizado")
         break
